@@ -1,8 +1,8 @@
 import React from 'react'
 
-export const About = () => (
+export const About = (store) => (
   <div>
-    This is About
+    About Page
   </div>
 )
 
